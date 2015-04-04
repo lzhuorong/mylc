@@ -1,4 +1,7 @@
 # Delete Duplicate Emails
+# Source : https://leetcode.com/problems/delete-duplicate-emails/
+# Author : lzr
+# Date	 : 2015/4/3
 
 # 1st solution
 delete from Person 
