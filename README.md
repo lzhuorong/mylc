@@ -26,7 +26,11 @@
 
 ## Algorithms
 
+111 Minimum Depth of Binary Tree
+
 110 Balanced Binary Tree
+
+104 Maximum Depth of Binary Tree
 
 100 Same Tree
 
