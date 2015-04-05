@@ -1,4 +1,4 @@
-## Database ##
+## Database
 
 197 Rising Temperature
 
@@ -24,6 +24,10 @@
 
 175 Combine Two Tables
 
-## Algorithms ##
+## Algorithms
 
-## Shell ##
+110 Balanced Binary Tree
+
+100 Same Tree
+
+## Shell
