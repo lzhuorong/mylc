@@ -26,12 +26,24 @@
 
 ## Algorithms
 
+145 Binary Tree Postorder Traversal
+
+144 Binary Tree Preorder Traversal
+
+112 Path Sum
+
 111 Minimum Depth of Binary Tree
 
 110 Balanced Binary Tree
 
 104 Maximum Depth of Binary Tree
 
+102 Binary Tree Level Order Traversal
+
+101 Symmetric Tree 
+
 100 Same Tree
+
+94  Binary Tree Inorder Traversal
 
 ## Shell
