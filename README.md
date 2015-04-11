@@ -36,6 +36,8 @@
 
 110 Balanced Binary Tree
 
+107 Binary Tree Level Order Traversal II
+
 104 Maximum Depth of Binary Tree
 
 102 Binary Tree Level Order Traversal
@@ -45,5 +47,9 @@
 100 Same Tree
 
 94  Binary Tree Inorder Traversal
+
+80  Remove Duplicates from Sorted Array II
+
+26  Remove Duplicates from Sorted Array
 
 ## Shell
